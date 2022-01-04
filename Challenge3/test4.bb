@@ -1,0 +1,15 @@
+clear X;
+incr X;
+incr X;
+incr X;
+clear Y;
+clear W;
+while X not 0 do;
+   if X not 2 do;
+      incr Y;
+   end;
+   else;
+      incr W;
+   end;
+   decr X;
+end;
