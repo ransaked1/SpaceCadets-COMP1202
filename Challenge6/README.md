@@ -11,13 +11,13 @@
 
 ***Result:***
 <p float="left">
-  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/circle1.png" width="600" height="400" />
-  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/circle2.png" width="600" height="400" /> 
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge6/circle1.png" width="400" height="300" />
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge6/circle2.png" width="400" height="300" /> 
 </p>
 
 <p float="left">
-  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/circle3.png" width="600" height="400" />
-  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/circle4.png" width="600" height="400" /> 
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge6/circle3.png" width="400" height="300" />
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge6/circle4.png" width="400" height="300" /> 
 </p>
 
 
