@@ -10,7 +10,15 @@
 5. Draw circle around the most prominent circle(s)
 
 ***Result:***
+<p float="left">
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/circle1.png" width="600" height="400" />
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/circle2.png" width="600" height="400" /> 
+</p>
 
+<p float="left">
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/circle3.png" width="600" height="400" />
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/circle4.png" width="600" height="400" /> 
+</p>
 
 
 ### Quick Setup
