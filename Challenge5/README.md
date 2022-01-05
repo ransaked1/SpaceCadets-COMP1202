@@ -16,3 +16,10 @@ In this challenge I'd like you to focus on creating an Object Oriented solution.
   <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/spiro2.png" width="400" height="400" />
   <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/spiro3re.png" width="400" height="400" /> 
 </p>
+
+### Quick Setup
+Download the project and open it in IntelliJ, it should automatically setup the dependencies and run the program in the IDE.
+
+### Compatibility
+Recommended JDK version - 17 <br>
+Gradle version - 7.1 <br>
