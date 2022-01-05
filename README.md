@@ -11,8 +11,6 @@ Unfortunately, I have the bad habbit of pushing authentication tokens to public 
 **_Task:_ Write a Web service to Fetch an email ID and get a person's name**
 
 _Description:_ Have a look at the Web page at https://www.ecs.soton.ac.uk/people/dem. This is a departmental information page which gives all sorts of information about a member of staff. The Web address is constructed from a departmental email id (in this case dem). If I have someone else's email id, I can look up their name from one of these Web pages. Try it with your own email id. In fact, in the past the name started at the 12th character of the 6th line of the HTML data returned by the Web server. It finishes when a '<' character appears. (Choose 'View Source' from your Web browser to check where it is now.)
-&nbsp;
-&nbsp;
 ### Challenge II
 
 **_Task:_ Build a bare bones interpreter to take text file and produce an output**
