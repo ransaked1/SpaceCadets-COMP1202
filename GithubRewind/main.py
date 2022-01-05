@@ -9,7 +9,9 @@ from PIL import ImageDraw
 
 github_username = input("Please provide your github username: ")
 
-header = {'Authorization': 'token %s' % "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"}
+token = "YOUR GITHUB LOGIN TOKEN"
+
+header = {'Authorization': 'token %s' % token}
 api_url_user = f"https://api.github.com/users/{github_username}"
 api_url_repos = f"https://api.github.com/users/{github_username}/repos"
 
