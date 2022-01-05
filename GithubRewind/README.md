@@ -6,9 +6,9 @@
 
 ***Result:***
 <p float="left">
-  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/GithubRewind/out1.png" width="360" height="640" />
-  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/GithubRewind/out2.png" width="360" height="640" />
-  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/GithubRewind/out3.png" width="360" height="640" />
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/GithubRewind/out1.png" width="288" height="512" />
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/GithubRewind/out2.png" width="288" height="512" />
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/GithubRewind/out3.png" width="288" height="512" />
 </p>
 
 ## Getting Started
