@@ -17,3 +17,24 @@ Build the project in the project root folder:
 ```
 make
 ```
+Running a test file:
+```
+java BareBones test1.bb
+```
+or 
+```
+java BareBones test2.bb
+```
+
+### Additional build options
+Cleaning up all class files:
+```
+make clean
+```
+Rebuild the project (If you made changes to the code):
+```
+make re
+```
+
+## Built With
+* [Java SE 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) - Recommended Java version
