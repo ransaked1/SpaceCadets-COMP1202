@@ -10,6 +10,7 @@
 5. Draw circle around the most prominent circle(s)
 
 ***Result:***
+Sadly my circle hough operation fails at calculating and agregating the scores for each pixel. This is why the 4th image in all of these doesn't highlight the circles.
 <p float="left">
   <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge6/circle1.png" width="400" height="300" />
   <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge6/circle2.png" width="400" height="300" /> 
