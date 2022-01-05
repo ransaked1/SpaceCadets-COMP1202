@@ -7,3 +7,11 @@
 In this challenge I'd like you to focus on creating an Object Oriented solution. For example, you might create a separate class that represents a hypocycloid, which has instance variables for (among other things) the radius of the circles. Your class should provide a sensible constructor so that a hypocycloid of a particular shape can be easily created. The class should provide a paint() method so that it can be easily drawn by the applet's paint() method.
 
 ***Result:***
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/spiro1.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/spiro4.png" alt="Forest" style="width:100%">
+  </div>
+</div>
