@@ -15,7 +15,7 @@ Unfortunately, I have the bad habbit of pushing authentication tokens to public 
 
 **_Task:_ Build a bare bones interpreter to take text file and produce an output**
 
-_Description:_ Bare Bones is the simple language that Brookshear uses in his book, 'Computer Science: an Overview', to illustrate the power of Turing complete machines and investigate the halting problem. This weeks challenge is to implement a Bare Bones interpreter. The program should take a text file containing a bare bones program as input and execute each statement in turn. After each statement has been executed it should output the state of all the variables in the system to form a record of execution.
+***Description:*** Bare Bones is the simple language that Brookshear uses in his book, 'Computer Science: an Overview', to illustrate the power of Turing complete machines and investigate the halting problem. This weeks challenge is to implement a Bare Bones interpreter. The program should take a text file containing a bare bones program as input and execute each statement in turn. After each statement has been executed it should output the state of all the variables in the system to form a record of execution.
 ### Challenge III
 
 **_Task:_ Extend the bare bones language interpreter**
