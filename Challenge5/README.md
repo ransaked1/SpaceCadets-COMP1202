@@ -15,3 +15,8 @@ In this challenge I'd like you to focus on creating an Object Oriented solution.
     <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/spiro4.png" width="400" height="400">
   </div>
 </div>
+
+<p float="left">
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/spiro1.png" width="100" />
+  <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/spiro1.png" width="100" /> 
+</p>
