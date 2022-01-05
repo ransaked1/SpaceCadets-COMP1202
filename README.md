@@ -1,5 +1,5 @@
 # Space Cadets
-Besides the Programming I course in my first semester, there was an optional course for students with previous experience in programming that included weekly challenges that explored more advanced topics. The course was also a survival competition for the students who can complete the most challenges in the 9 weeks. I made it into top 5 out of the initial 50 participants :)
+Besides the Programming I course in my first semester, there was an optional course for students with previous experience in programming that included weekly challenges that explored more advanced topics. The only condition is to have your solution written in Java. The course was also a survival competition for the students who can complete the most challenges in the 9 weeks. I made it into top 5 out of the initial 50 participants :)
 
 Below is a general breakdown of each challenge with a more detailed Readme in its folder.
 
@@ -67,4 +67,4 @@ In this challenge I'd like you to focus on creating an Object Oriented solution.
 
 **_Task:_ Code anything winter themed in the programming language of choice**
 
-***Project choice:*** Github Rewind - given a github username the program builds images with year statistics like Spotify Wrapped.
+***Project choice:*** Github Rewind - given a github username the program builds images with year statistics like Spotify Wrapped. Written in Python.
