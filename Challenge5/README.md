@@ -9,9 +9,9 @@ In this challenge I'd like you to focus on creating an Object Oriented solution.
 ***Result:***
 <div class="row">
   <div class="column">
-    <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/spiro1.png" alt="Snow" style="width:100%">
+    <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/spiro1.png" width="400" height="400">
   </div>
   <div class="column">
-    <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/spiro4.png" alt="Forest" style="width:100%">
+    <img src="https://github.com/ransaked1/SpaceCadets-COMP1202/blob/master/Challenge5/spiro4.png" width="400" height="400">
   </div>
 </div>
