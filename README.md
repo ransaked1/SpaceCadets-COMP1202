@@ -1,4 +1,4 @@
-# SpaceCadets-COMP1202
+# Space Cadets
 Besides the Programming I course in my first semester, there was an optional course for students with previous experience in programming that included weekly challenges that explored more advanced topics. The course was also a survival competition for the students who can complete the most challenges in the 9 weeks. I made it into top 5 out of the initial 50 participants :)
 
 Below is a general breakdown of each challenge with a more detailed Readme in its folder.
